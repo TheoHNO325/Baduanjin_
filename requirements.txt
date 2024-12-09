@@ -1,0 +1,10 @@
+torchvision==0.16.2
+visdom
+nibabel
+pandas
+tqdm
+matplotlib
+opencv-python
+ntpath
+glob
+csv
